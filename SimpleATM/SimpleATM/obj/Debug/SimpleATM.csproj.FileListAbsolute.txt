@@ -8,3 +8,4 @@ C:\Users\Asura\Desktop\Programing\SimpleATM\SimpleATM\SimpleATM\obj\Debug\Simple
 C:\Users\Asura\Desktop\Programing\SimpleATM\SimpleATM\SimpleATM\obj\Debug\SimpleATM.csproj.CoreCompileInputs.cache
 C:\Users\Asura\Desktop\Programing\SimpleATM\SimpleATM\SimpleATM\obj\Debug\SimpleATM.exe
 C:\Users\Asura\Desktop\Programing\SimpleATM\SimpleATM\SimpleATM\obj\Debug\SimpleATM.pdb
+C:\Users\Asura\Desktop\Programing\SimpleATM\SimpleATM\SimpleATM\obj\Debug\SimpleATM.Form2.resources
