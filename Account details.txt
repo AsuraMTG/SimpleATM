@@ -1,0 +1,6 @@
+First name: Marton 
+Surname: Masznyik
+Phone number: 06302133142
+Card number: 2313-2131-3213-1233
+Card Type: debit card
+Bank account number: 11773078-00469001
